@@ -1,4 +1,4 @@
-quantidade = 8;
+quantidade = 5;
 for (contador = 0; contador <= quantidade; contador++) {
   conta = contador % 2;
   if ( conta == 1) {
